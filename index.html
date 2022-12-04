@@ -57,9 +57,6 @@
 				    <div><p><b>Wymaga Androida</b></p>
 				       <p>6.0 i nowsze</p>
 		            </div>
-		            <div><p><b>Pobrania</b></p>
-			           <p>1 000 000+</p>
-	                </div>
 				</div>
 				</main>
 			</article>
