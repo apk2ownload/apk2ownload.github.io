@@ -26,7 +26,7 @@
 			<p><b>Sinsay - moda i zakupy online</b></p>
 			<p style="color:green;" class="text">1.4.2 </p>
 			<p style="color:blue;" c="text">LPP S.A E-commerce</p>
-			<p id="a"><a href="Sinsay 1.4.2.apk" download>Download APK (12 MB)</a></p>   	
+			<p id="a"><a href="Sinsay 1.6.0.apk" download>Download APK (12 MB)</a></p>   	
 		</div>
     </div>
 	</section>
@@ -116,6 +116,7 @@
 			</header> 
                 <ol>
                     <li><a href="Sinsay 1.4.2.apk" download>23 lis 2022</a></li>
+                    <li><a href="Sinsay 1.6.0.apk" download>25 jan 2023</a></li>
 				</ol>
             </article>
 		</div>
