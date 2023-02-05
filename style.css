@@ -203,3 +203,57 @@ footer h6{
     font-family: 'Yrsa', serif;
     text-align: center;
 }
+@media all and (max-width: 800px) {
+    html { 
+        font-size: 19px;
+    }
+    .index {
+        max-width: 25rem;
+    }
+    nav ol li a{
+        width: 90%;
+        font-size: 0.7em;
+    }
+    #about .index h2{
+        font-size: 1.5em;
+        font-family: 'Yrsa', serif;
+        font-weight: 500;
+    }
+    #about .index main{
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    #about .index b{
+        font-weight: bold;
+    }
+    #about .index main div{
+        margin-top: 0.5rem;
+        width: 12em;
+    }
+    #about .index p{
+        font-size: 0.8em;
+    }
+    
+    #versions {
+    margin-top: 0;
+    }
+    #versions h2 {
+        font-size: 1.5em;
+        font-weight: 600;
+        font-family: 'Yrsa', serif
+    }
+    
+    #versions ol{
+        display: flex;/*flexbox*/
+        gap:1rem;
+    }
+    #versions .index ol li a {
+        width: 10rem;
+        display: block;
+        padding: 1.2em;/* em - odnoszą się do wielkości fontu w elementcie*/
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        font-weight: 300;}
+    }    
